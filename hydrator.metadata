@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
-  "drySha": "0148bb84bce2076f2fce28bad2885179661495f3",
+  "drySha": "ebe536684c913900d4032e668926538df8cbe62e",
   "author": "Nikolai Kjærem Ellingsen <33695875+cranberrygrenade@users.noreply.github.com>",
-  "date": "2026-01-26T15:56:11Z",
-  "subject": "Change service port from 80 to 123"
+  "date": "2026-01-26T16:00:43Z",
+  "subject": "revert"
 }
