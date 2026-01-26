@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
-  "drySha": "398e07614a43fa68cc0c0c5973c5bf6dea6aeadc",
+  "drySha": "0148bb84bce2076f2fce28bad2885179661495f3",
   "author": "Nikolai Kjærem Ellingsen <33695875+cranberrygrenade@users.noreply.github.com>",
-  "date": "2026-01-26T15:52:07Z",
-  "subject": "Update replicaCount from 1 to 2"
+  "date": "2026-01-26T15:56:11Z",
+  "subject": "Change service port from 80 to 123"
 }
