@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
-  "drySha": "1efb815bc645eb10defbc2893a79230c63129bcb",
+  "drySha": "314d3af8c5ee5b6483d34e5f1010c8e9479b8040",
   "author": "Nikolai Kjærem Ellingsen <33695875+cranberrygrenade@users.noreply.github.com>",
-  "date": "2026-01-27T15:23:26Z",
-  "subject": "Update README with new badge links and formatting"
+  "date": "2026-01-27T15:25:50Z",
+  "subject": "Fix badge display in README.md"
 }
