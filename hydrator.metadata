@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
-  "drySha": "49e3d8b4831a04a5ec844a4799291cb62fa1a95a",
+  "drySha": "bd07c0f23fd724d9bd05d5e64968534514bd3cce",
   "author": "Nikolai Kjærem Ellingsen <33695875+cranberrygrenade@users.noreply.github.com>",
-  "date": "2026-01-27T15:27:57Z",
-  "subject": "Update README.md"
+  "date": "2026-01-27T15:29:46Z",
+  "subject": "Update badge URLs to include revision parameter"
 }
