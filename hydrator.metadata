@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
-  "drySha": "fe99f9e43daeaa876f460f1b5063f493f832542e",
+  "drySha": "1efb815bc645eb10defbc2893a79230c63129bcb",
   "author": "Nikolai Kjærem Ellingsen <33695875+cranberrygrenade@users.noreply.github.com>",
-  "date": "2026-01-27T15:15:20Z",
-  "subject": "Change replica count from 1 to 3"
+  "date": "2026-01-27T15:23:26Z",
+  "subject": "Update README with new badge links and formatting"
 }
