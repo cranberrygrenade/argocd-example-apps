@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
-  "drySha": "a96080f6201eab230d00d3be3c37ec4db4da88eb",
+  "drySha": "e9cf0b4a8c31b088b324226b1085afc1a5ccedfa",
   "author": "Nikolai Kjærem Ellingsen <33695875+cranberrygrenade@users.noreply.github.com>",
-  "date": "2026-01-27T10:18:30Z",
-  "subject": "Increase replicaCount from 1 to 2"
+  "date": "2026-01-27T11:17:30Z",
+  "subject": "Change replica count from 1 to 3"
 }
