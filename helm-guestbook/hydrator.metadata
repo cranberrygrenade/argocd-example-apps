@@ -1,6 +1,6 @@
 {
   "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
-  "drySha": "bd07c0f23fd724d9bd05d5e64968534514bd3cce",
+  "drySha": "2dad04338a6a3bd3633f440fd6b33a824a09b1bf",
   "commands": [
     "helm template . --name-template prod-helm-guestbook --include-crds"
   ]
