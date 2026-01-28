@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
+  "drySha": "c07817c0a074bad6cd77ec08e29987c623d00ec2",
+  "author": "cranberrygrenade <nikolai.kjarem.ellingsen@nrk.no>",
+  "date": "2026-01-27T16:13:34Z",
+  "subject": "revert: replicas"
+}
