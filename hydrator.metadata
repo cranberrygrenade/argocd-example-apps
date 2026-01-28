@@ -1,0 +1,8 @@
+{
+  "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
+  "drySha": "d12dfeac93e7a36b594dd2a95ebd24b93e91b107",
+  "author": "test-argo-gitops[bot] <256776356+test-argo-gitops[bot]@users.noreply.github.com>",
+  "date": "2026-01-28T15:13:26Z",
+  "subject": "Merge pull request #72 from cranberrygrenade/main-next",
+  "body": "Promote 11b3c46 to main\n\nThis PR is promoting the environment branch `main` which is currently on dry sha e20823f68b5a1ca49b7dd9f059b71921d8869cda to dry sha 11b3c46185076499f427bc21d6bff5f0ed12e59f.\n\n\nCommit-status-active-argocd-health-phase: success\nCommit-status-active-argocd-health-url: \nPull-request-creation-time: 2026-01-28T15:13:24Z\nPull-request-id: 72\nPull-request-source-branch: main-next\nPull-request-target-branch: main\nPull-request-url: https://github.com/cranberrygrenade/argocd-example-apps/pull/72\nSha-dry-active: e20823f68b5a1ca49b7dd9f059b71921d8869cda\nSha-dry-proposed: 11b3c46185076499f427bc21d6bff5f0ed12e59f\nSha-hydrated-active: 11b3c46185076499f427bc21d6bff5f0ed12e59f\nSha-hydrated-proposed: b36cc2541d6ab1d1fce45251e8563bb6113100e1\nPull-request-merge-time: 2026-01-28T15:13:26Z\n"
+}
