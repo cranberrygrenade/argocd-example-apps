@@ -1,7 +1,8 @@
 {
   "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
-  "drySha": "dd1063d6d91a34e7dbfb187a1531a5afaf7d53e3",
-  "author": "Nikolai Kjærem Ellingsen <33695875+cranberrygrenade@users.noreply.github.com>",
-  "date": "2026-01-28T15:09:19Z",
-  "subject": "Update test badge link to use 'main' branch"
+  "drySha": "e20823f68b5a1ca49b7dd9f059b71921d8869cda",
+  "author": "test-argo-gitops[bot] <256776356+test-argo-gitops[bot]@users.noreply.github.com>",
+  "date": "2026-01-28T15:11:11Z",
+  "subject": "Merge pull request #69 from cranberrygrenade/main-next",
+  "body": "Promote dd1063d to main\n\nThis PR is promoting the environment branch `main` which is currently on dry sha 0ca01047b09914b15596502fe29e4d9e550b2c8f to dry sha dd1063d6d91a34e7dbfb187a1531a5afaf7d53e3.\n\n\nCommit-status-active-argocd-health-phase: success\nCommit-status-active-argocd-health-url: \nPull-request-creation-time: 2026-01-28T15:11:07Z\nPull-request-id: 69\nPull-request-source-branch: main-next\nPull-request-target-branch: main\nPull-request-url: https://github.com/cranberrygrenade/argocd-example-apps/pull/69\nSha-dry-active: 0ca01047b09914b15596502fe29e4d9e550b2c8f\nSha-dry-proposed: dd1063d6d91a34e7dbfb187a1531a5afaf7d53e3\nSha-hydrated-active: dd1063d6d91a34e7dbfb187a1531a5afaf7d53e3\nSha-hydrated-proposed: a83c803cb750db2cd9c88fba310e1452a04d15b4\nPull-request-merge-time: 2026-01-28T15:11:10Z\n"
 }
