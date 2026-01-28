@@ -1,8 +1,7 @@
 {
   "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
-  "drySha": "aad5ea402abc55d9ac1fe2c7f32236b99ef81bde",
-  "author": "test-argo-gitops[bot] <256776356+test-argo-gitops[bot]@users.noreply.github.com>",
-  "date": "2026-01-28T15:04:47Z",
-  "subject": "Merge pull request #66 from cranberrygrenade/master-next",
-  "body": "Promote 45ab58c to master\n\nThis PR is promoting the environment branch `master` which is currently on dry sha  to dry sha 45ab58c21088b02032ee990b18d1528727c4f603.\n\n\nCommit-status-active-argocd-health-phase: success\nCommit-status-active-argocd-health-url: \nPull-request-creation-time: 2026-01-28T15:04:42Z\nPull-request-id: 66\nPull-request-source-branch: master-next\nPull-request-target-branch: master\nPull-request-url: https://github.com/cranberrygrenade/argocd-example-apps/pull/66\nSha-dry-active: \nSha-dry-proposed: 45ab58c21088b02032ee990b18d1528727c4f603\nSha-hydrated-active: 45ab58c21088b02032ee990b18d1528727c4f603\nSha-hydrated-proposed: b39841d3583bb51c14f83925b99ed77d64f3a0c5\nPull-request-merge-time: 2026-01-28T15:04:46Z\n"
+  "drySha": "0ca01047b09914b15596502fe29e4d9e550b2c8f",
+  "author": "Nikolai Kjærem Ellingsen <33695875+cranberrygrenade@users.noreply.github.com>",
+  "date": "2026-01-28T15:07:21Z",
+  "subject": "Update test badge URL in README.md"
 }
