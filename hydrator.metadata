@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
-  "drySha": "74481b9d50a83277a917cf08b8776ac5b0ee6b31",
+  "drySha": "43c23cfc4b21ce7717c053e934dc6a9a2dc1e0ce",
   "author": "Nikolai Kjærem Ellingsen <33695875+cranberrygrenade@users.noreply.github.com>",
-  "date": "2026-01-29T10:09:20Z",
-  "subject": "Change replicaCount from 1 to 3"
+  "date": "2026-01-29T10:55:01Z",
+  "subject": "Update values.yaml"
 }
