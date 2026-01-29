@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/cranberrygrenade/argocd-example-apps",
-  "drySha": "55ca6f8458b362f20de07dd32485ef82dc328898",
+  "drySha": "c60d82dfb54c1dad33db08fdcd9532d94e5f0573",
   "author": "Nikolai Kjærem Ellingsen <33695875+cranberrygrenade@users.noreply.github.com>",
-  "date": "2026-01-29T11:53:15Z",
+  "date": "2026-01-29T12:09:04Z",
   "subject": "Update values.yaml"
 }
